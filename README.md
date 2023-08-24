@@ -1,4 +1,4 @@
-# blog-web
+# Blog-web
 
 This is a web application where users can read, post, edit, and delete their own blogs. The project is built using HTML, CSS, JavaScript, Node.js, Express.js, and integrates with Google Firebase for the database.
 
