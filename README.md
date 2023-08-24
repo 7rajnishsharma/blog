@@ -27,7 +27,7 @@ Contributions are welcome! If you find any bugs or want to add new features, fee
 
 To clone the repo, you can use the following command:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/7rajnishsharma/blog-web.git
 
 ```
 
