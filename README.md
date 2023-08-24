@@ -35,13 +35,13 @@ git clone https://github.com/7rajnishsharma/blog-web.git
 
 ### Homepage
 
-![home](https://github.com/7rajnishsharma/blog-web/assets/111423953/c8596eff-c647-4561-b835-4e8dcb8ae6b9)
+![home](https://github.com/7rajnishsharma/blog-web/assets/111423953/651bc5c1-0d68-4438-ae6b-d60a53bb7105)
 
 In the homepage, users can see all the blogs posted by various authors.
 
 ### Dashboard
 
-![dashboard](https://github.com/7rajnishsharma/blog-web/assets/111423953/d450b6d5-3033-46b8-85b8-a7fc8163392a)
+![dashboard](https://github.com/7rajnishsharma/blog-web/assets/111423953/9596c55d-a925-48c2-8b68-a9f8a2cec3b6)
 
 In the dashboard section, users can see their own blogs, edit and delete them.
 
